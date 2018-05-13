@@ -1,0 +1,8 @@
+[package]
+name = "i3-rewind-player"
+version = "0.1.0"
+authors = ["Adam Jakubek <ajakubek@gmail.com>"]
+
+[dependencies]
+dbus = "0.5"
+dbus-macros = "0.2"
